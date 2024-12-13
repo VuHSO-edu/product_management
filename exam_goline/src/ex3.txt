@@ -1,0 +1,31 @@
+Phần 1: Lý thuyết
+Phân biệt giữa int và Integer trong Java.
+Sự khác nhau giữa interface và abstract class trong Java.
+Giải thích khái niệm immutable trong Java với ví dụ.
+Khi nào nên sử dụng TreeMap thay vì HashMap?
+Ý nghĩa của từ khóa static khi dùng với nested class trong Java.
+Sự khác nhau giữa synchronized method và synchronized block.
+Tại sao cần sử dụng từ khóa volatile trong Java?
+Trong Spring, @Autowired và @Qualifier có tác dụng gì?
+Giải thích về Spring Boot và lợi ích của nó trong phát triển ứng dụng.
+Sự khác nhau giữa @RequestMapping và @GetMapping trong Spring Boot.
+Khi nào nên sử dụng Java Streams API? Nêu ví dụ.
+So sánh giữa ArrayList và Vector trong Java.
+Sự khác nhau giữa anonymous inner class và lambda expressions.
+Giải thích về từ khóa instanceof trong Java và cách sử dụng.
+Phân biệt giữa throw và throws trong Java.
+Từ khóa transient được sử dụng như thế nào trong Java?
+Redis Pub/Sub là gì và tại sao nó quan trọng?
+Cách thiết lập Redis TTL cho một key cụ thể.
+Kafka broker là gì và vai trò của nó trong hệ thống Kafka?
+Phân biệt giữa leader và follower trong Kafka partition.
+Nêu một ví dụ về cách sử dụng Kafka consumer group.
+Viết lệnh SQL để chọn tất cả các hàng từ bảng orders sắp xếp theo ngày đặt hàng giảm dần.
+Viết lệnh SQL để thêm một cột email vào bảng customers.
+Viết lệnh SQL để chọn tất cả các sinh viên từ bảng students có điểm từ 5 đến 8.
+Thực hiện right join giữa bảng employees và bảng departments theo department_id.
+Viết lệnh SQL để cập nhật điểm trung bình của sinh viên có id là 101 trong bảng students.
+So sánh giữa ArrayBlockingQueue và LinkedBlockingQueue trong Java.
+Giải thích về cấu trúc dữ liệu Stack và cách sử dụng trong Java.
+Phân biệt giữa wait() và sleep() trong Java với ví dụ.
+Phân biệt giữa HashMap và WeakHashMap trong Java.
